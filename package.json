@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "sharp": "^0.34.3",
+    "svg2png": "^4.1.1"
+  }
+}
