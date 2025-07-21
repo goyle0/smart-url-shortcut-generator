@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="64" cy="64" r="64" fill="#2563eb"/>
+  
+  <!-- Chain link icon -->
+  <g transform="translate(32, 32)">
+    <!-- First link -->
+    <path d="M20 32 C20 22, 30 12, 40 12 L44 12 C54 12, 64 22, 64 32 C64 42, 54 52, 44 52 L40 52" 
+          stroke="white" stroke-width="4" stroke-linecap="round" fill="none"/>
+    
+    <!-- Second link -->
+    <path d="M44 20 L20 20 C10 20, 0 30, 0 40 C0 50, 10 60, 20 60 L24 60 C34 60, 44 50, 44 40" 
+          stroke="white" stroke-width="4" stroke-linecap="round" fill="none"/>
+    
+    <!-- Arrow indicating shortening -->
+    <path d="M48 8 L56 8 L52 4 M56 8 L52 12" 
+          stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  </g>
+</svg>
